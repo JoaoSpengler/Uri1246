@@ -1,0 +1,11 @@
+C:\Users\joao.spengler\Desktop\Uri\Uri1246\Uri1246\bin\Debug\netcoreapp2.0\Uri1246.deps.json
+C:\Users\joao.spengler\Desktop\Uri\Uri1246\Uri1246\bin\Debug\netcoreapp2.0\Uri1246.runtimeconfig.json
+C:\Users\joao.spengler\Desktop\Uri\Uri1246\Uri1246\bin\Debug\netcoreapp2.0\Uri1246.runtimeconfig.dev.json
+C:\Users\joao.spengler\Desktop\Uri\Uri1246\Uri1246\bin\Debug\netcoreapp2.0\Uri1246.dll
+C:\Users\joao.spengler\Desktop\Uri\Uri1246\Uri1246\bin\Debug\netcoreapp2.0\Uri1246.pdb
+C:\Users\joao.spengler\Desktop\Uri\Uri1246\Uri1246\obj\Debug\netcoreapp2.0\Uri1246.csprojAssemblyReference.cache
+C:\Users\joao.spengler\Desktop\Uri\Uri1246\Uri1246\obj\Debug\netcoreapp2.0\Uri1246.csproj.CoreCompileInputs.cache
+C:\Users\joao.spengler\Desktop\Uri\Uri1246\Uri1246\obj\Debug\netcoreapp2.0\Uri1246.AssemblyInfoInputs.cache
+C:\Users\joao.spengler\Desktop\Uri\Uri1246\Uri1246\obj\Debug\netcoreapp2.0\Uri1246.AssemblyInfo.cs
+C:\Users\joao.spengler\Desktop\Uri\Uri1246\Uri1246\obj\Debug\netcoreapp2.0\Uri1246.dll
+C:\Users\joao.spengler\Desktop\Uri\Uri1246\Uri1246\obj\Debug\netcoreapp2.0\Uri1246.pdb
